@@ -15,7 +15,7 @@ export default function Contact(){
       </ul>
       <Image
           src="/my-pic.jpg" 
-          alt="Description of the image"
+          alt="this is my image"
           width={500} 
           height={500} 
         />
